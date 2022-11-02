@@ -77,8 +77,8 @@ body {
   -webkit-justify-content: space-between;
   -ms-flex-pack: justify;
           justify-content: space-between;
-  padding-bottom: 0.3rem;
-  padding-top: 1.8rem;
+  padding-bottom: 3.3rem;
+  padding-top: 2.8rem;
 }
 @media (min-width: 64em) {
   .rk-topbar {
@@ -1385,6 +1385,32 @@ body {
 .item-47 {
   background-image: url("../img/outros-glintt-1.jpg");
 }
+
+.item-48 {
+  background-image: url("../img/outros-cartao-1.jpg");
+}
+
+.item-49 {
+  background-image: url("../img/outros-box-lays-1.jpg");
+}
+
+.item-50 {
+  background-image: url("../img/news-mcdonalds-1.jpg");
+}
+
+.item-51 {
+  background-image: url("../img/rs-spv-1.jpg");
+}
+
+.item-52 {
+  background-image: url("../img/rs-daveia-1.jpg");
+}
+
+.item-53 {
+  background-image: url("../img/sites-Leziria-1.jpg");
+}
+
+
 
 @media (min-width: 40em) {
   #layout-grid:checked ~ .rk-portfolio .rk-items-cont {
